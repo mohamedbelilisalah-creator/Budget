@@ -1,0 +1,5 @@
+Month,Date,Category,Type,Budget (€),Actual (€),Section
+2025-11,2025-11-01,Salary,Income,0,2000,Savings
+2025-11,2025-11-05,Restaurant & Food Delivery,Expense,220,60,Wants
+2025-11,2025-11-06,Rent,Expense,800,800,Needs
+2025-11,2025-11-10,"Phone Subs (ChatGPT, Google Cloud, Apple Music, Extra)",Expense,25,25,Wants
